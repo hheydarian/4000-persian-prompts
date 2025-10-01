@@ -1,3 +1,14 @@
+
+<p align="center">
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/hheydarian/4000-prompts-persian?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/hheydarian/4000-prompts-persian?color=blueviolet" alt="GitHub forks">
+  <img src="https://img.shields.io/github/last-commit/hheydarian/4000-prompts-persian?color=9cf" alt="Last Commit">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=hheydarian.4000-prompts-persian" alt="Visitors">
+</p>
+
+
 # ۴۰۰۰ پرامپت فارسی
 
 🎯 هدف این پروژه: ساخت یک مرجع جامع از ۴۰۰۰ پرامپت فارسی برای ChatGPT و سایر مدل‌های هوش مصنوعی.  
