@@ -1,6 +1,6 @@
 
 <p align="center">
-
+<img src="image/Cover.png" alt="prompt" width="400"/> 
 <p align="center">
   <img src="https://img.shields.io/github/stars/hheydarian/4000-prompts-persian?style=social" alt="GitHub stars">
   <img src="https://img.shields.io/github/forks/hheydarian/4000-prompts-persian?color=blueviolet" alt="GitHub forks">
